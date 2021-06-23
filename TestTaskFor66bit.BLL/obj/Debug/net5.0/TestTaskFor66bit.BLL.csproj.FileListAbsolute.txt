@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\bin\Debug\net5.0\TestTaskFor66bit.DAL.dll
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\obj\Debug\net5.0\TestTaskFor66bit.BLL.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\obj\Debug\net5.0\TestTaskFor66bit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\obj\Debug\net5.0\TestTaskFor66bit.BLL.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\obj\Debug\net5.0\TestTaskFor66bit.BLL.AssemblyInfo.cs
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\bin\Debug\net5.0\TestTaskFor66bit.BLL.deps.json
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\bin\Debug\net5.0\TestTaskFor66bit.BLL.dll
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\bin\Debug\net5.0\ref\TestTaskFor66bit.BLL.dll
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\bin\Debug\net5.0\TestTaskFor66bit.BLL.pdb
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\bin\Debug\net5.0\TestTaskFor66bit.DAL.pdb
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\obj\Debug\net5.0\TestTaskFor66bit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\obj\Debug\net5.0\TestTaskFor66bit.BLL.csproj.CopyComplete
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\obj\Debug\net5.0\TestTaskFor66bit.BLL.dll
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\obj\Debug\net5.0\ref\TestTaskFor66bit.BLL.dll
+C:\Users\MSI\source\repos\TestTaskFor66bit.BLL\obj\Debug\net5.0\TestTaskFor66bit.BLL.pdb
